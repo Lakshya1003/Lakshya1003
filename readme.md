@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my web development skills<br>🤝 I’m looking for help with open source community<br>🌱 I’m currently learning CSS<br>⚡ Fun fact : I'm C++ major
+🔭 I’m currently working on my web development skills<br>🤝 I’m looking for help with open source community<br>🌱 I’m currently learning Flutter <br>⚡ Fun fact : I'm C++ major
 
 
 ## 🌐 Socials:
