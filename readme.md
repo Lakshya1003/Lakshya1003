@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project MANTHAN <br>👯 I’m looking to collaborate on DataBASE Dev<br>🤝 I’m looking for help with open source community<br>🌱 I’m currently learning LLM<br>💬 Ask me about What not to do for distractions <br>⚡ Fun fact I'm doing this for my side hustle
+🔭 I’m currently working on Project NYX { repel unabvailable } <br>👯 I’m looking to collaborate on LLM <br>🤝 I’m looking for some innovative creators to work with<br>💬 Every Choice Matters, Choose Wisely <br>⚡ Keep Movin🏃‍♀️‍➡️, Keep Shining✨, Keep Hustling💪
 
 
 ## 🌐 Socials:
