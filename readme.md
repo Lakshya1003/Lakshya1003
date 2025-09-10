@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Project NYX { repel unabvailable }<br>👯 I’m looking to collaborate on LLM<br>🤝 I’m looking for some innovative creators to work with<br>💬 Every Choice Matters, Choose Wisely<br>⚡ Keep Movin🏃‍♀️‍➡️, Keep Shining✨, Keep Hustling💪
+🔭 I’m currently working on Project NYX { repel unavailable }<br>👯 I’m looking to collaborate on LLM<br>🤝 I’m looking for some innovative creators to work with<br>💬 Every Choice Matters, Choose Wisely<br>⚡ Keep Movin🏃‍♀️‍➡️, Keep Shining✨, Keep Hustling💪
 
 
 ## 🌐 Socials:
