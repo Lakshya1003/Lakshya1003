@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Project NYX { repel unavailable }<br>👯 I’m looking to collaborate on LLM<br>🤝 I’m looking for some innovative creators to work with<br>💬 Every Choice Matters, Choose Wisely<br>⚡ Keep Movin🏃‍♀️‍➡️, Keep Shining✨, Keep Hustling💪
 
-[![HitCount](https://hits.dwyl.com/Lakshya1003/Lakshya1003.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Lakshya1003/Lakshya1003)
+[![HitCount](https://hits.dwyl.com/Lakshya1003/Lakshya1003.svg?style=flat)](http://hits.dwyl.com/Lakshya1003/Lakshya1003)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lakshya-raj-malviya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malviyalakshyaraj@gmail.com) 
