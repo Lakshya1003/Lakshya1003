@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Project NYX { repel unavailable }<br>👯 I’m looking to collaborate on LLM<br>🤝 I’m looking for some innovative creators to work with<br>💬 Every Choice Matters, Choose Wisely<br>⚡ Keep Movin🏃‍♀️‍➡️, Keep Shining✨, Keep Hustling💪
 
+
+
+<img src="https://i.pinimg.com/originals/bc/74/75/bc7475384e7d1d4ecc3f1b00c08c63c8.gif" width="400">
+
 [![HitCount](https://hits.dwyl.com/Lakshya1003/Lakshya1003.svg?style=flat)](http://hits.dwyl.com/Lakshya1003/Lakshya1003)
 
 ## 🌐 Socials:
