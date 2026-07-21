@@ -26,3 +26,18 @@
 [![](https://komarev.com/ghpvc/?username=Lakshya1003&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Lakshya1003/Lakshya1003/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Lakshya1003/Lakshya1003/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
